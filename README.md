@@ -1,3 +1,9 @@
+# Create project with specific Angular version
+
+Exemple: create a project on Angular v16
+
+`npx -p @angular/cli@16 ng new my_project`
+
 # TutorialV16
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.12.
